@@ -1,2 +1,2 @@
-# karthiksgovindappa.github.io
+# karsgov.github.io
 Personal Blog
